@@ -1,1 +1,3 @@
-<embed src="l1.pdf" type="application/pdf" width="100%" height=800>
+# Lecture 
+
+ [Open PDF](./l1.pdf)
